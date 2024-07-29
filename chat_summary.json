@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be always visible or should it become visible upon a certain user action (like clicking a button)?\", \"option1\": \"Always visible\", \"option2\": \"Visible on user action\"}, {\"question 2\": \"Do you have a preference for the sidebar's placement on the screen?\", \"option1\": \"Left side of the screen\", \"option2\": \"Right side of the screen\"}], \"input_token_count\": 264, \"output_token_count\": 100, \"time_taken\": \"0:00:03.165602\"}",
         "timestamp": "29072024051819",
         "message_id": "guest29072024051815"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sub-menus under each NavLink for more detailed navigation\", \"checked\": false}, {\"feature\": \"Custom icons next to each NavLink for better visual guidance\", \"checked\": true}, {\"feature\": \"Sticky sidebar option to keep navigation visible at all times while scrolling\", \"checked\": true}, {\"feature\": \"Responsive design for sidebar to adapt on mobile screens as a collapsible menu\", \"checked\": true}, {\"feature\": \"Hover effects on NavLinks for a more interactive user experience\", \"checked\": false}, {\"feature\": \"Footer links echoing sidebar navlinks for improved navigation from bottom of the page\", \"checked\": false}], \"input_token_count\": 218, \"output_token_count\": 147, \"time_taken\": \"0:00:06.604807\"}",
+        "timestamp": "29072024051822",
+        "message_id": "guest29072024051815"
     }
 ]
