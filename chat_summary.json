@@ -18,5 +18,11 @@
         "content": "Great, I will add a sidebar with the navlinks you mentioned.",
         "timestamp": "29072024051816",
         "message_id": "guest29072024051815"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be always visible or should it become visible upon a certain user action (like clicking a button)?\", \"option1\": \"Always visible\", \"option2\": \"Visible on user action\"}, {\"question 2\": \"Do you have a preference for the sidebar's placement on the screen?\", \"option1\": \"Left side of the screen\", \"option2\": \"Right side of the screen\"}], \"input_token_count\": 264, \"output_token_count\": 100, \"time_taken\": \"0:00:03.165602\"}",
+        "timestamp": "29072024051819",
+        "message_id": "guest29072024051815"
     }
 ]
